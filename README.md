@@ -34,10 +34,9 @@
 3. **Project structure example:**
 
    ```
-   python-ransomware-simulator/
+   ransomware_simulator/
    ├── encryptor.py        # Encrypt files in a folder
    ├── decryptor.py        # Decrypt files and restore them
-   ├── requirements.txt    # Required Python packages
    ├── README.md           # Project documentation
    ```
 
